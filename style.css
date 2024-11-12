@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color:#1877f2;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+body {
+    background-color: #f0f2f5;
+    align-items: center;
+    height: 100px;
+}
+
+.container {
+    max-width: 1000px;
+    width: 100%;
+    padding: 20px;
+    margin: 0px 0px 0px 415px;
+}
+
+
+.right-section {
+    max-width: 400px;
+}
+
+.login-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.email{
+    width: 100%;
+    padding: 10px 0px 10px 5px;
+    margin: 5px 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.password{
+    width: 100%;
+    padding: 10px 0px 10px 5px;
+    margin: 5px 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.submit{
+    background-color: #1877f2;
+    color: #fff;
+    font-size: 15px;
+    border: none;
+    padding: 10px 170px;
+    border-radius: 5px;
+}
+
+.submit:hover{
+    background-color: lightskyblue;
+}
+
+.login-box a {
+    text-decoration: none;
+    font-size: 14px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+
+hr {
+    border: none;
+    border-top: 1px solid #dddfe2;
+    margin: 15px 0;
+}
+
+
+.create-account-btn{
+    background-color: green;
+    color: #fff;
+    font-size: 15px;
+    border: none;
+    padding: 10px 155px;
+    border-radius: 5px;
+}
+
+.create-account-btn:hover{
+    background-color: lightgreen;
+}
